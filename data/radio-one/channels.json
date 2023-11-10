@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 1,
+        "url": "http://103.16.47.70:7888/",
+        "streamType": "",
+        "title": "B&W Classics",
+        "artwork": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/d31c92f1872f5c8cc7fce50d44a61d6f_200x200.jpg",
+        "artist": "Hungama Music",
+        "tags": "bollywood",
+        "languages": ["hi"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "India",
+            "countryCode": "IN",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "",
+            "owner": "",
+            "contact": ""
+        }
+    },
+    {
+        "id": 2,
+        "url": "http://103.16.47.70:6222/",
+        "streamType": "",
+        "title": "60's Forever",
+        "artwork": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/620fd122ae441202df2bb273cd41975a_200x200.jpg",
+        "artist": "Hungama Music",
+        "tags": "bollywood",
+        "languages": ["hi"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "India",
+            "countryCode": "IN",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "",
+            "owner": "Hungama Music"
+        }
+    },
+    {
+        "id": 3,
+        "url": "http://103.16.47.70:9222/",
+        "streamType": "",
+        "title": "Dance Masti Bollywood",
+        "artwork": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/d94550afcb6568a7535d1c57f6c793d7_200x200.jpg",
+        "artist": "Hungama Music"
+    },
+    {
+        "id": 4,
+        "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/CLUBMI64kbps.m3u8",
+        "streamType": ".m3u8",
+        "title": "Club Mirchi",
+        "artwork": "https://a10.gaanacdn.com/gn_img/m_radio_circle/w4MKPObojg/w4MKPObojg/size_l_1563783532.webp",
+        "artist": "Hungama Music"
+    },
+    {
+        "id": 5,
+        "url": "http://103.16.47.70:7444/",
+        "streamType": "",
+        "title": "90s Once Again",
+        "artwork": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/8576409cc8ca9dba5e96260c12d39e58_200x200.jpg",
+        "artist": "Hungama Music"
+    },
+    {
+        "id": 6,
+        "url": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8",
+        "streamType": ".m3u8",
+        "title": "Filmy Mirchi",
+        "artwork": "https://static.tuneyou.com/images/logos/500_500/78/14378/RadioMirchiFilmyMirchi_2.jpg",
+        "artist": "Radio Mirhci"
+    },
+
+    {
+        "id": 7,
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8",
+        "streamType": ".m3u8",
+        "title": "Vividh Bharati 100.6 FM (Nagpur)",
+        "artwork": "",
+        "artist": "All India Radio"
+    },
+    {
+        "id": 8,
+        "url": "http://103.16.47.70:9666/live",
+        "streamType": "",
+        "title": "Best of Ghazals",
+        "artwork": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/91f9efdfc2637c6b9c5e4d4029ec1d8d_200x200.jpg",
+        "artist": "Hungama Music"
+    },
+    {
+        "id": 9,
+        "url": "http://103.16.47.70:9222/",
+        "streamType": "",
+        "title": "Dance Masti International",
+        "artwork": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/c04c1eb6a7cbd0b6acda31950073dc5e_200x200.jpg",
+        "artist": "Hungama Music"
+    },
+    {
+        "id": 10,
+        "url": "http://103.16.47.70:8333/live",
+        "streamType": "",
+        "title": "Bollywood Instrumentals",
+        "artwork": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/835a66a7c81599d660ad94dc3eed938a_200x200.jpg",
+        "artist": "Hungama Music"
+    },
+    {
+        "id": 11,
+        "url": "http://www.streamcontrol.net:12010/",
+        "streamType": "",
+        "title": "Bolly 92.3 FM",
+        "artwork": "",
+        "artist": ""
+    },
+    {
+        "id": 12,
+        "url": "https://stream.zeno.fm/6n6ewddtad0uv",
+        "streamType": "",
+        "title": "Bollywood Gaane Purane",
+        "artwork": "https://liveradios.in/wp-content/uploads/bollywoodgaanepurane.jpg",
+        "artist": ""
+    },
+    {
+        "id": 13,
+        "url": "https://listen.soulradio.us/us",
+        "streamType": "",
+        "title": "SOUL RADIO Classics",
+        "artwork": "https://static.mytuner.mobi/media/tvos_radios/HkwAQDCszQ.png",
+        "artist": "Soul Radio"
+    },
+    {
+        "id": 14,
+        "url": "http://stream0.wfmu.org/drummer",
+        "streamType": "",
+        "title": "Give the Drummer Radio",
+        "artwork": "https://wfmu.org/images/GTDRbanner210213-percep800.png",
+        "artist": "WFMU"
+    },
+    {
+        "id": 15,
+        "url": "http://16963.live.streamtheworld.com/SAM03AAC226_SC",
+        "streamType": "",
+        "title": "#1980s Zoom",
+        "artwork": "https://www.radio.net/images/broadcasts/d6/b8/122813/2/c300.png",
+        "artist": ""
+    },
+    {
+        "id": 16,
+        "url": "https://stream.ktlf.radio/radio/8000/theLight",
+        "streamType": "",
+        "title": "The Light",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KTLF.png",
+        "artist": "Keeping The Lord First",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Contemporary Christian"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Colorado Springs",
+            "state": "CO",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "",
+            "owner": "Educational Communications Of Colorado Springs"
+        }
+    },
+    {
+        "id": 17,
+        "url": "https://streaming.tntradio.live/",
+        "streamType": "",
+        "title": "TNT Radio live",
+        "artwork": "https://static.mytuner.mobi/media/tvos_radios/GwQ7RxdqCM.png",
+        "artist": "",
+        "tags": "climate sceptics,covid19,politics,talk",
+        "state": "",
+        "country": "",
+        "countryCode": "US",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 18,
+        "url": "https://80sexitos.stream.laut.fm/80sexitos",
+        "streamType": "",
+        "title": "1 oldies",
+        "artwork": "https://cdn.webrad.io/images/logos/emisora-org-es/1oldies.png",
+        "artist": "",
+        "tags": "70s,80s,90s,disco,musica romantica,oldies,pop,rock",
+        "state": "New York",
+        "country": "",
+        "countryCode": "US",
+        "language": "english,spanish",
+        "languagecodes": "en,es"
+    },
+    {
+        "id": 19,
+        "url": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+        "streamType": "",
+        "title": "Funky Corner Radio",
+        "artwork": "https://www.funkycorner.it/FCR300.png",
+        "artist": "",
+        "tags": "70s,70s disco,80s,black,black music,disco,funk,funky,motown,music,musica,oldies,p-funk,philadelphia,r&b,rare groove,rnb,soul,the sound of philadelphia",
+        "state": "Washington, DC",
+        "country": "",
+        "countryCode": "US",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 21,
+        "url": "https://streams.radio.co/s8d06d0298/listen",
+        "streamType": "",
+        "title": "Radio Mirchi Raleigh-Durham",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/radiomirchiusa.png",
+        "artist": "",
+        "tags": "",
+        "city": "Durham",
+        "state": "NC",
+        "country": "",
+        "countryCode": "US",
+        "language": "english",
+        "languagecodes": "en",
+        "relatedChannels": [28]
+    },
+    {
+        "id": 22,
+        "url": "https://ice9.securenetsystems.net/KWXY",
+        "streamType": "",
+        "title": "KWXY 92.3 FM & 1340 AM",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KWXY.png",
+        "artist": "KWXY",
+        "tags": "",
+        "city": "Cathedral City",
+        "state": "CA",
+        "country": "",
+        "countryCode": "US",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 23,
+        "url": "https://ors.cdnstream1.com/5211_128",
+        "streamType": "",
+        "title": "Be Good Radio",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/BeGoodRadio.png",
+        "artist": "80s Lite",
+        "tags": "80s Lite",
+        "city": "",
+        "state": "",
+        "country": "",
+        "countryCode": "",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 24,
+        "url": "https://stream.revma.ihrhls.com/zc4455",
+        "streamType": "",
+        "title": "Big Classic Hits",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/big-classic-hits.jpg",
+        "artist": "70s & 80s Feel Good Songs",
+        "tags": "70s, 80s & 90s Hits",
+        "city": "",
+        "state": "",
+        "country": "",
+        "countryCode": "",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 25,
+        "url": "https://prod-54-81-115-46.wostreaming.net/telesouth-wymxfmaac-hlsc1.m3u8",
+        "streamType": ".m3u8",
+        "title": "Max 99.1",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WYMX.jpg",
+        "artist": "Nothing but the greatest hits.",
+        "tags": "Classic Hits",
+        "city": "Greenwood",
+        "state": "MS",
+        "country": "",
+        "countryCode": "",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 26,
+        "url": "https://prod-3-94-116-217.wostreaming.net/telesouth-wxykfmaac-hlsc1.m3u8",
+        "streamType": ".m3u8",
+        "title": "105.9 The Monkey",
+        "artwork": "https://1059themonkey.com/wp-content/uploads/2019/02/WXYK-1059TheMonkey.png",
+        "artist": "",
+        "tags": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "countryCode": "",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 27,
+        "url": "https://prod-34-235-158-241.wostreaming.net/telesouth-wangamaac-hlsc1.m3u8",
+        "streamType": ".m3u8",
+        "title": "Bob 106.3",
+        "artwork": "https://bob1063fm.com/wp-content/uploads/2021/10/Bob1063-retro-revised.jpg",
+        "artist": "80's...90's...& WHATEVER!",
+        "tags": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "countryCode": "",
+        "language": "english",
+        "languagecodes": "en"
+    },
+    {
+        "id": 28,
+        "url": "http://peridot.streamguys.com:7150/Mirchi",
+        "streamType": "",
+        "title": "Radio Mirchi 98.3 FM",
+        "artwork": "https://static.mytuner.mobi/media/tvos_radios/cVVcTMJBcm.png",
+        "artist": "",
+        "tags": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "countryCode": "",
+        "language": "hindi",
+        "languagecodes": "hi",
+        "relatedChannels": [21]
+    },
+    {
+        "id": 29,
+        "url": "https://s1-webradio.antenne.de/hits-fuer-kids/stream/mp3",
+        "streamType": "",
+        "title": "Hits für Kids",
+        "artwork": "https://cdn-profiles.tunein.com/s96755/images/logod.png",
+        "artist": "",
+        "tags": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "countryCode": "",
+        "language": "german",
+        "languagecodes": "",
+        "genres": ["pop music", "children's music"]
+    },
+    {
+        "id": 30,
+        "url": "https://unlimited3-cl.dps.live/carolina/gotardis/audio/now/livestream1.m3u8",
+        "streamType": ".m3u8",
+        "title": "Radio Carolina 99.3",
+        "artwork": "https://cdn-radiotime-logos.tunein.com/s25096d.png",
+        "artist": "",
+        "tags": "",
+        "city": "Santiago",
+        "state": "",
+        "country": "Chile",
+        "countryCode": "",
+        "language": "spanish",
+        "languagecodes": "",
+        "genres": ["pop music", "electronic dance music", "reggae"]
+    },
+    {
+        "id": 31,
+        "url": "https://listen-funkids.sharp-stream.com/funkidsjunior.mp3",
+        "streamType": "",
+        "title": "Fun Kids Junior",
+        "artwork": "https://cdn-profiles.tunein.com/s308401/images/logod.jpg",
+        "artist": "",
+        "tags": "",
+        "city": "",
+        "state": "",
+        "country": "United Kingdom",
+        "countryCode": "UK",
+        "language": "english",
+        "languagecodes": "",
+        "genres": ["children's music"],
+        "relatedChannels": [32]
+    },
+    {
+        "id": 32,
+        "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+        "streamType": "",
+        "title": "Fun Kids",
+        "artwork": "https://cdn-profiles.tunein.com/s67862/images/logod.jpg",
+        "artist": "",
+        "tags": "",
+        "city": "",
+        "state": "",
+        "country": "United Kingdom",
+        "countryCode": "UK",
+        "language": "english",
+        "languagecodes": "",
+        "genres": ["children's music"],
+        "relatedChannels": [31]
+    },
+    {
+        "id": 33,
+        "url": "https://stream.revma.ihrhls.com/zc6955",
+        "streamType": "",
+        "title": "Classic Funk",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/classic-funk.png",
+        "artist": "R&B Favorites from the 70s & 80s",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["classical music"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "",
+            "owner": "",
+            "contact": ""
+        }
+    },
+    {
+        "id": 34,
+        "url": "https://stream.revma.ihrhls.com/zc6873",
+        "streamType": "",
+        "title": "iHeart60s Radio",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KLTHHD2.png",
+        "artist": "Commercial-Free 60s Hits",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["classical music"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "",
+            "owner": "",
+            "contact": ""
+        }
+    },
+    {
+        "id": 35,
+        "url": "https://ais-sa1.streamon.fm/7730_48k.aac",
+        "streamType": "",
+        "title": "105.5 Kool FM",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KUDD-HD2.jpg",
+        "artist": "Pop, Soul, and Rock & Roll hits from the 60s and 70s",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Pop, Soul, Rock and Roll"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Salt Lake City",
+            "state": "UT",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "",
+            "owner": "",
+            "contact": ""
+        }
+    },
+    {
+        "id": 36,
+        "url": "https://ice7.securenetsystems.net/CRUISIN",
+        "streamType": "",
+        "title": "Cruisin KCFI",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KCFI.jpg",
+        "artist": "1250 & 105.1",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Cedar Falls",
+            "state": "IA",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "KCFI is a Oldies radio station. Owned and operated by Coloff Media.",
+            "owner": "Coloff Media"
+        }
+    },
+    {
+        "id": 37,
+        "url": "https://ice41.securenetsystems.net/WDGY",
+        "streamType": "",
+        "title": "WDGY Radio",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WDGY.jpg",
+        "artist": "The Original Rock and Roll Station",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies", "Rock"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WDGY is a Oldies radio station serving Minneapolis. Owned and operated by WRPX.",
+            "owner": "WRPX"
+        }
+    },
+    {
+        "id": 38,
+        "url": "https://ice41.securenetsystems.net/WREY",
+        "streamType": "",
+        "title": "94.9 El Rey",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WREY.png",
+        "artist": "Es La Ley!",
+        "tags": "",
+        "languages": ["es"],
+        "genres": ["Oldies", "Rock"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Saint Paul",
+            "state": "MN",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WREY is a Regional Mexican radio station serving Minneapolis. Owned and operated by Borgen Broadcasting.",
+            "owner": "Borgen Broadcasting"
+        }
+    },
+    {
+        "id": 39,
+        "url": "https://live.wostreaming.net/direct/dlcmedia-waxifmaac-ibc4",
+        "streamType": "",
+        "title": "104.9 WAXI",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WAXI.jpg",
+        "artist": "True Oldies",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Rockville",
+            "state": "IN",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WAXI is a Oldies radio station. Owned and operated by DLC Media.",
+            "owner": "DLC Media"
+        }
+    },
+    {
+        "id": 40,
+        "url": "https://www.streamvortex.com:8444/s/10090",
+        "streamType": "",
+        "title": "WRTZ 1410 AM",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WRTZ.jpg",
+        "artist": "True Oldies",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Roanoke",
+            "state": "VA",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WRTZ is a Oldies radio station. Owned and operated by Metromark Media.",
+            "owner": "Metromark Media"
+        }
+    },
+    {
+        "id": 41,
+        "url": "https://stream.revma.ihrhls.com/zc6663",
+        "streamType": "",
+        "title": "3WS HD2",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WWSW-HD2.jpg",
+        "artist": "Pittsburgh's 60s & 70s Hits",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WWSW-HD2 is a Oldies radio station serving Pittsburgh. Owned and operated by iHeartMedia.",
+            "owner": "iHeartMedia"
+        }
+    },
+    {
+        "id": 42,
+        "url": "https://ice8.securenetsystems.net/KYNO",
+        "streamType": "",
+        "title": "KYNO 940 AM",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KYNO-940.jpg",
+        "artist": "",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Fresno",
+            "state": "CA",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "KYNO is a Oldies radio station serving Fresno. Owned and operated by One Putt Broadcasting.",
+            "owner": "One Putt Broadcasting"
+        }
+    },
+    {
+        "id": 43,
+        "url": "https://stream.revma.ihrhls.com/zc5096",
+        "streamType": "",
+        "title": "Seaview 104.9",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WCVU.jpg",
+        "artist": "Port Charlotte's Nostalgia Station",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Solana",
+            "state": "FL",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "Seaview 104.9 is a Oldies radio station serving Solana. Owned and operated by iHeartMedia.",
+            "owner": "iHeartMedia"
+        }
+    },
+    {
+        "id": 44,
+        "url": "https://ice5.securenetsystems.net/KDRI",
+        "streamType": "",
+        "title": "The Drive Tucson",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KDRI.png",
+        "artist": "Radio station for Tucsonans",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Tucson",
+            "state": "AZ",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "KDRI is a Oldies radio station serving Tucson. Owned and operated by Tucson Radio.",
+            "owner": "Tucson Radio"
+        }
+    },
+    {
+        "id": 45,
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSURAMAAC.aac",
+        "streamType": "",
+        "title": "L.A. Oldies K-SURF",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KKGO-HD2.png",
+        "artist": "#1 L.A. Oldies Station",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "KKGO-HD4 is a Oldies radio station serving Los Angeles. Owned and operated by Mount Wilson Broadcasting.",
+            "owner": "Mount Wilson Broadcasting"
+        }
+    },
+    {
+        "id": 46,
+        "url": "https://us2.maindigitalstream.com/ssl/KOBMA",
+        "streamType": "",
+        "title": "Boomer Radio 94.5/1420",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KIBM.png",
+        "artist": "Good Times & Great Oldies!",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Blair",
+            "state": "NE",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "KOBM-AF is a Oldies radio station serving Omaha. Owned and operated by Walnut Radio.",
+            "owner": "Walnut Radio"
+        }
+    },
+    {
+        "id": 47,
+        "url": "https://ice23.securenetsystems.net/WAIZ",
+        "streamType": "",
+        "title": "Big 63 WAYS",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WAIZ.jpg",
+        "artist": "",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Hickory",
+            "state": "NC",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WAIZ is a Oldies radio station. Owned and operated by Newton-Conover Communications.",
+            "owner": "Newton-Conover Communications"
+        }
+    },
+    {
+        "id": 48,
+        "url": "https://ice42.securenetsystems.net/WULB",
+        "streamType": "",
+        "title": "96.3 The Beach",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WULB-LP.jpg",
+        "artist": "Oldies from the Beach!",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Long Boat Key",
+            "state": "FL",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WULB-LP is a Oldies radio station serving Sarasota. Owned and operated by M&M Community Development.",
+            "owner": "M&M Community Development"
+        }
+    },
+    {
+        "id": 49,
+        "url": "https://live.wostreaming.net/manifest/townsquare-wtughd3aac-ibc3",
+        "streamType": "",
+        "title": "97.5 MeTV FM",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WTUG-HD3.png",
+        "artist": "",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Northport",
+            "state": "AL",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WTUG-HD3 is a Oldies radio station. Owned and operated by Townsquare Media.",
+            "owner": "Townsquare Media"
+        }
+    },
+    {
+        "id": 50,
+        "url": "https://ice23.securenetsystems.net/WGCMAM",
+        "streamType": "",
+        "title": "Cruisin' WGCM 1240/100.9",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/WGCM.jpg",
+        "artist": "Music to Cruise To",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Gulfport",
+            "state": "MS",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WGCM is a Oldies radio station. Owned and operated by JMD.",
+            "owner": "Townsquare Media"
+        }
+    },
+    {
+        "id": 51,
+        "url": "https://stream0.wfmu.org/freeform-high.aac",
+        "streamType": "",
+        "title": "WFMU 91.1 FM",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/wfmu.png",
+        "artist": "Great Freeform Radio",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Indie", "Adult Hits"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "East Orange",
+            "state": "NJ",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WFMU is an Adult Hits radio station serving New York. Owned and operated by Auricle Communications.",
+            "owner": "Auricle Communications"
+        }
+    },
+    {
+        "id": 52,
+        "url": "https://stream.revma.ihrhls.com/zc6843",
+        "streamType": "",
+        "title": "iHeart70s Radio",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/iheart70s-radio.jpg",
+        "artist": "Commercial-Free 70s Hits",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Oldies"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": ".",
+            "owner": ""
+        }
+    },
+    {
+        "id": 53,
+        "url": "https://stream.revma.ihrhls.com/zc2744",
+        "streamType": "",
+        "title": "100.3 The Bus",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KDRB.jpg",
+        "artist": "We Play Everything",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Adult Hits"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Des Moines",
+            "state": "IA",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "KDRB is an Adult Hits radio station serving Des Moines. Owned and operated by iHeartMedia.",
+            "owner": "iHeartMedia"
+        }
+    },
+    {
+        "id": 54,
+        "url": "https://stream.revma.ihrhls.com/zc57",
+        "streamType": "",
+        "title": "95.5 The Mountain",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KYOTFM.png",
+        "artist": "We Play Everything in Phoenix!",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Adult Hits"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "KYOT is an Adult Hits radio station serving Phoenix. Owned and operated by iHeartMedia.",
+            "owner": "iHeartMedia"
+        }
+    },
+    {
+        "id": 55,
+        "url": "https://stream.revma.ihrhls.com/zc4330",
+        "streamType": "",
+        "title": "102.7 Jack-FM",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/KJXKFM.png",
+        "artist": "Playing What We Want for Baltimore",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Adult Hits"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Baltimore",
+            "state": "MD",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "WQSR is an Adult Hits radio station serving Baltimore. Owned and operated by iHeartMedia.",
+            "owner": "iHeartMedia"
+        }
+    },
+    {
+        "id": 56,
+        "url": "https://stream.revma.ihrhls.com/zc1609",
+        "streamType": "",
+        "title": "102.9 The Lake",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/102.9%20The%20Lake.png",
+        "artist": "Charlotte's We Play Anything Station",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Adult Hits"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "102.9 The Lake is an Adult Hits radio station serving Charlotte. Owned and operated by iHeartMedia.",
+            "owner": "iHeartMedia"
+        }
+    },
+    {
+        "id": 57,
+        "url": "https://stream.revma.ihrhls.com/zc6834",
+        "streamType": "",
+        "title": "iHeart90s Radio",
+        "artwork": "https://radiostationusa.fm/assets/image/radio/180/ih90s.png",
+        "artist": "Commercial-Free 90s Hits",
+        "tags": "",
+        "languages": ["en"],
+        "genres": ["Adult Hits"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "USA",
+            "countryCode": "US",
+            "continent": ""
+        },
+        "channelInfo": {
+            "description": "iHeart90s Radio is an Adult Hits radio station. Owned and operated by iHeartMedia.",
+            "owner": "iHeartMedia"
+        }
+    },
+    {
+        "id": 58,
+        "url": "https://stream-148.zeno.fm/u7sgq72zrf9uv?zs=jBbXdcf_Q2SqUhJ9l_3nOA",
+        "streamType": "",
+        "title": "Radio City Hindi",
+        "artwork": "https://static.mytuner.mobi/media/tvos_radios/vZNzLXx52E.png",
+        "artist": "Listen to music & talk shows in Hindi",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "Maharashtra",
+            "country": "INDIA",
+            "countryCode": "IN",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "Listen to the Radio City Hindi Live broadcast from Maharashtra",
+            "owner": "Radio City"
+        }
+    },
+    {
+        "id": 59,
+        "url": "http://hoth.alonhosting.com:1080",
+        "streamType": "",
+        "title": "BollyHits Radio",
+        "artwork": "https://static.mytuner.mobi/media/tvos_radios/gfwvyqspah2g.png",
+        "artist": "Listen to the Bollywood songs 24/7",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "INDIA",
+            "countryCode": "IN",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "Listen to the Bollywood songs 24/7",
+            "owner": "bollyhitsradio.com"
+        }
+    },
+    {
+        "id": 60,
+        "url": "https://stream-147.zeno.fm/v2zfmxef798uv?zs=56KlGlpLTzW6_2KW64kM2g",
+        "streamType": "",
+        "title": "Hindi Retro",
+        "artwork": "https://liveradios.in/wp-content/uploads/mirchiretro.jpg",
+        "artist": "Gaana.com",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "INDIA",
+            "countryCode": "IN",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "Romantic songs from 70's, 80's, 90's and early 2000's",
+            "owner": "Gaana.com"
+        }
+    },
+    {
+        "id": 61,
+        "url": "http://103.16.47.70:7222/;stream.mp3",
+        "streamType": "",
+        "title": "Best of 90's",
+        "artwork": "https://static.mytuner.mobi/media/tvos_radios/sgjkrL4YeY.jpeg",
+        "artist": "Hungama",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "INDIA",
+            "countryCode": "IN",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "Bollywood songs from 90's",
+            "owner": "Hungama"
+        }
+    },
+    {
+        "id": 62,
+        "url": "https://18313.live.streamtheworld.com/RADIO_OLIVE_RETRO_S03_SC",
+        "streamType": "",
+        "title": "Olive Retro",
+        "artwork": "https://liveradios.in/wp-content/uploads/RADIO-OLIVE-RETRO.png",
+        "artist": "",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "QATAR",
+            "countryCode": "QA",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "Radio Olive Retro is the first ever Hindi retro radio station, Radio Olive Retro launches in the State of Qatar.",
+            "owner": ""
+        }
+    },
+    {
+        "id": 63,
+        "url": "https://22333.live.streamtheworld.com/OLIVE1063.mp3",
+        "streamType": "",
+        "title": "Radio Olive 106.3",
+        "artwork": "https://liveradios.in/wp-content/uploads/OLIVE-logo.png",
+        "artist": "",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "QATAR",
+            "countryCode": "QA",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "Radio Olive 106.3 FM is the first private Hindi FM station to be aired from the State of Qatar.",
+            "owner": ""
+        }
+    },
+    {
+        "id": 64,
+        "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+        "streamType": "",
+        "title": "Mirchi Love",
+        "artwork": "https://liveradios.in/wp-content/uploads/mirchilove-1.jpg",
+        "artist": "",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "INDIA",
+            "countryCode": "IN",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "Mirchi Love 104.2 FM, India’s first Love song station is here. Just Pyar Kiye ja!",
+            "owner": ""
+        }
+    },
+    {
+        "id": 65,
+        "url": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+        "streamType": "",
+        "title": "Bombay Beats Radio",
+        "artwork": "https://liveradios.in/wp-content/uploads/1fm.jpg",
+        "artist": "Bollywood and Indian Pop music 24/7 nonstop",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "INDIA",
+            "countryCode": "IN",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "1.fm Bombay beats radio is blazing with Filmi songs, dance routines and Hindi-pop blends from the very heart of India and the Mumbai film scene",
+            "owner": ""
+        }
+    },
+    {
+        "id": 66,
+        "url": "https://funasia.streamguys1.com/bigdallas",
+        "streamType": "",
+        "title": "Big FM 106.2",
+        "artwork": "https://liveradios.in/wp-content/uploads/bignew1-1.jpg",
+        "artist": "Dil se desi",
+        "tags": "",
+        "languages": ["hi"],
+        "genres": ["Desi Hits", "Bollywood"],
+        "relatedChannels": [],
+        "origin": {
+            "city": "",
+            "state": "",
+            "country": "INDIA",
+            "countryCode": "IN",
+            "continent": "Asia"
+        },
+        "channelInfo": {
+            "description": "BIG 106.2, is a South Asian radio station playing Pure Music all day long. At the studios of BIG 106.2, we use the magic of radio to entertain our listeners and and spread happiness.",
+            "owner": ""
+        }
+    }
+]
